@@ -73,10 +73,10 @@ Swing processes all user input and screen repaints on a single [Event Dispatch T
 ![Delete_book](assets/Delete_Book.png)
 
 ### 6. Borrow_book
-![Borrow_book](assets/Borrow_Book.png)   
+![Borrow_book](assets/Borrow.png)   
 
 ### 7. After_ Borrow_book
-![After_Borrow_book](assets/After_Borrow_Book.png)    
+![After_Borrow_book](assets/After_Borrow.png)    
 
 
 ## Prerequisites & How to Run (VS Code)
