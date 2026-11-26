@@ -67,16 +67,16 @@ Swing processes all user input and screen repaints on a single [Event Dispatch T
 ![After_Add_book](assets/After_Add_Book.png)
 
 ### 4. Update_book
-![Update_book](assets/Update_book.png)
+![Update_book](assets/Update_Book.png)
 
 ### 5. Delete_book
-![Delete_book](assets/Delete_book.png)
+![Delete_book](assets/Delete_Book.png)
 
 ### 6. Borrow_book
-![Borrow_book](assets/Borrow_book.png)   
+![Borrow_book](assets/Borrow_Book.png)   
 
 ### 7. After_ Borrow_book
-![After_Borrow_book](assets/After_Borrow_book.png)    
+![After_Borrow_book](assets/After_Borrow_Book.png)    
 
 
 ## Prerequisites & How to Run (VS Code)
