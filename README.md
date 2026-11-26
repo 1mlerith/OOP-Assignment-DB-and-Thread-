@@ -55,7 +55,29 @@ Swing processes all user input and screen repaints on a single [Event Dispatch T
 2. **Background Thread:** Executes `BookDAO` calls (`addBook`, `updateBook`, `deleteBook`, `borrowBook`, or `findAll`) inside `new Thread(...)`.
 3. **UI Update (`SwingUtilities.invokeLater`):** Safely refreshes the `JTable`, book counter, and status label on the EDT, and re-enables buttons (`setBusy(false, ...)`) on both success and failure.
 
-### 4. Screenshots
+## Screenshots
+
+### 1. Dashboard
+![Dasboard](assets/Dashboard.png)
+
+### 2.Add_book
+![Add_book](assets/Add_Book.png)
+
+### 3. After_Add_book
+![After_Add_book](assets/After_Add_Book.png)
+
+### 4. Update_book
+![Update_book](assets/Update_book.png)
+
+### 5. Delete_book
+![Delete_book](assets/Delete_book.png)
+
+### 6. Borrow_book
+![Borrow_book](assets/Borrow_book.png)   
+
+### 7. After_ Borrow_book
+![After_Borrow_book](assets/After_Borrow_book.png)    
+
 
 ## Prerequisites & How to Run (VS Code)
 
